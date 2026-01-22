@@ -26,78 +26,122 @@
 
 ## 🚀 About Me
 
-```txt
-Computer Science undergraduate focused on programming fundamentals,
-data structures, and building scalable web applications.
+Computer Science undergraduate focused on **programming fundamentals**, **data structures**, and **building scalable web applications**.
 
-I like solving hard problems and turning ideas into working systems.
-🎓 B.Tech CSE — Geeta University (2024–2028)
+I enjoy solving hard problems and turning ideas into reliable systems.
 
-🧠 Strong foundation in DSA, OOP, and Problem Solving
+- 🎓 **B.Tech CSE** — Geeta University (2024–2028)  
+- 🧠 Strong foundation in **DSA, OOP, and Problem Solving**  
+- ⚙️ **Backend-focused Web Developer**  
+- 🚀 Built real-world applications used by **hundreds of users**  
+- 🏆 **Smart India Hackathon 2025 – Internal Winner**
 
-⚙️ Backend-focused Web Developer
+---
 
-🚀 Built real-world applications used by hundreds of users
+## 🧩 Technical Skillset
 
-🏆 Smart India Hackathon 2025 – Internal Winner
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,sql" />
+</p>
 
-🧩 Technical Skillset
-💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,js,sql" /> </p>
-🌐 Web & Backend Development
-<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,html,css" /> </p>
-🛠️ Tools & Concepts
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman" /> </p>
-Core CS:
-Data Structures & Algorithms · OOP · REST APIs · HTTP · Session Auth · DB Design
+### 🌐 Web & Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,html,css" />
+</p>
 
-🏗️ Featured Project (Production-Grade)
-⚡ Yugantran2.0 — Official Tech Fest Platform
-Stack: React · TypeScript · Node.js · Express · Google App Script
+### 🛠️ Tools & Concepts
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+**Core CS Concepts:**  
+Data Structures & Algorithms · OOP · REST APIs · HTTP · Session Auth · Database Design
+
+---
+
+## 🏗️ Featured Project (Production-Grade)
+
+### ⚡ Yugantran2.0 — Official Tech Fest Platform
+**Stack:** React · TypeScript · Node.js · Express · Google App Script
 
 Designed, built, and deployed under real deadlines.
 
-👨‍💻 Sole Developer & Tech Lead
+- 👨‍💻 Sole Developer & Tech Lead  
+- 📈 Scaled to **380+ registrations (680+ participants)**  
+- ⚡ Lightweight serverless backend for reliability  
+- 🧠 Pragmatic architecture under time & infrastructure constraints  
+- 📱 QR-based entry & validation system on event day  
 
-📈 Scaled to 380+ registrations (680+ participants)
+📌 *Frontend & Backend repositories pinned on profile*
 
-⚡ Lightweight serverless backend for reliability
+---
 
-🧠 Pragmatic architecture under time & infra constraints
+## 🧠 Competitive Programming & DSA
 
-📱 QR-based entry & validation system on event day
+- 🟢 **650+ problems solved** on LeetCode  
+- ⭐ **LeetCode Rating:** **1593**  
+- ⭐⭐⭐⭐ HackerRank — Problem Solving  
+- ⭐⭐⭐ HackerRank — C++  
 
-📌 Frontend & Backend repositories pinned on profile
+> DSA is my tool for writing efficient, correct, and scalable code.
 
-🧠 Competitive Programming & DSA
-🟢 650+ problems solved on LeetCode
+---
 
-⭐ LeetCode Rating: 1593
+## 🏆 Achievements
 
-⭐⭐⭐⭐ HackerRank — Problem Solving
+- 🥇 **Smart India Hackathon 2025** — Internal Round Winner  
+- 👨‍💻 **Lead Developer** — University Tech Fest Platform  
+- 🚀 Built & deployed systems used in live events  
 
-⭐⭐⭐ HackerRank — C++
+---
 
-DSA is my tool for writing efficient, correct, and scalable code.
+## 🧱 Engineering Highlights
 
-🏆 Achievements
-🥇 Smart India Hackathon 2025 — Internal Round Winner
+- ⚡ **Yugantran2.0** — Designed & built a production platform used by **680+ real users**
+- 🧠 **DSA Practice** — Solved **650+ problems** with focus on patterns & optimal solutions
+- 🌐 **Backend Systems** — Built REST APIs with authentication, persistence, and scalability in mind
 
-👨‍💻 Lead Developer — University Tech Fest Platform
+> I focus on building systems that are correct, scalable, and maintainable.
 
-🚀 Built & deployed systems used in live events
+---
 
-📊 GitHub Analytics (Auto-Updating)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kunalkhandelwal-dev&show_icons=true&theme=github_dark&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkhandelwal-dev&layout=compact&theme=github_dark&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalkhandelwal-dev&theme=github-dark&hide_border=true"/> </p>
-🎯 What I’m Optimizing For
-🔹 Strong problem-solving signal
+## 🧠 Problem-Solving Snapshot
 
-🔹 Clean backend & system thinking
+- Strong command over:
+  - Arrays, Strings, Hashing
+  - Binary Search, Two Pointers
+  - Recursion & Backtracking
+  - Trees, Graphs, Dynamic Programming
+- Comfortable analyzing **time & space trade-offs**
+- LeetCode Rating: **1593**
 
-🔹 Real-world engineering impact
+> I approach problems by recognizing patterns, not memorizing solutions.
 
-🔹 FAANG / MAANG-style internship readiness
+---
+
+## 🧩 Backend & System Thinking
+
+- REST API design & versioning
+- Session-based authentication & authorization
+- Database schema design & query optimization
+- Trade-offs: serverless vs traditional backend
+- Designing under real-world constraints (time, infra, scale)
+
+> I think in terms of systems, not just features.
+
+
+---
+
+<h3 align="center">🎯 What I’m Optimizing For</h3>
+
+<ul>
+  <li>Strong <b>problem-solving signal</b></li>
+  <li>Clean <b>backend & system thinking</b></li>
+  <li>Real-world <b>engineering impact</b></li>
+  <li>FAANG / MAANG-style internship readiness</li>
+</ul>
 
 <div align="center">
-⚡ Code. Think. Build. Repeat.
-</div> ```
+  <h3>⚡ Code. Think. Build. Repeat.</h3>
+</div>
